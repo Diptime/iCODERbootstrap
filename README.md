@@ -9,7 +9,7 @@ The frontend includes a Home page having navigation bar, options for login & sig
 
 For the backend of the website ,firebase has been used. The Firebase Realtime Database is a cloud-hosted database.
 Data is stored as JSON and synchronized in realtime to every connected client. The database has been used to store 
-the queries coming from the user and also
+the queries coming from the user and also for registering the users to the website.
 
 Some snapshots for reference have been attached below : 
 
