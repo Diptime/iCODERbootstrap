@@ -17,10 +17,10 @@ The home page :
 ![image](https://user-images.githubusercontent.com/73034611/184829051-db625abc-ed24-4f7d-9505-6c05313fca47.png)
 
 Contact us page :
-![image](https://user-images.githubusercontent.com/73034611/184829151-a27a4fe2-7aa2-4935-8de5-c780507ac0f7.png)
+![image](https://user-images.githubusercontent.com/73034611/184832659-e96147e9-0e6b-4cee-bbb9-ce04f09a5dec.png)
 
 Login page :
-![image](https://user-images.githubusercontent.com/73034611/184829311-46d98ae8-4cd0-4148-b3f2-9a2845f1c186.png)
+![image](https://user-images.githubusercontent.com/73034611/184832715-203d25ce-0915-4c95-ad17-8081a7b820b4.png)
 
 About page :
 ![image](https://user-images.githubusercontent.com/73034611/184829378-e9fca598-0be7-4338-84f4-8e55894b7179.png)
